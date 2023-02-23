@@ -21,7 +21,7 @@ minutes as an origin airport.
 * The most of delays occurred because of Late Aircraft Delay with average 23.74 minutes.
 * The most of delays occurred in June with average delay 63.39 minutes.
 
-### [3.Cancelled Flights Dashboard](https://public.tableau.com/app/profile/alaa.nabil.ali/viz/FlightDelaysandCancellation_16761190166850/CanceledFlights)
+### [3.Cancelled Flights Dashboard](https://public.tableau.com/app/profile/alaa.nabil.ali/viz/FlightDelaysandCancellation_16761190166850/CancelledFlights)
 * TX State has the highest number of canceled flights with total 668 flights.
 * ORD Airport (Chicago O’Hare International Airport) has the highest number of canceled flights with total 454 flights (253 canceled by weather, 91 canceled by Airline and 110
 canceled by Air System).
